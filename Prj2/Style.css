@@ -1,0 +1,5 @@
+.search-box{
+    -fx-background-color:#ffffff ;
+    -fx-background-radius: 100;
+    -ms-flex-align: center;
+}
